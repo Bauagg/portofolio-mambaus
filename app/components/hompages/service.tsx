@@ -37,7 +37,7 @@ export default function Service() {
     ]
 
     return (
-        <section className="bg-white dark:bg-black pt-12 md:pt-10">
+        <section id="services" className="bg-white dark:bg-black pt-12 md:pt-10">
             <div className="max-w-7xl mx-auto px-6 py-12 md:py-20">
                 <div className="flex justify-center">
                     <div className="rounded-full flex items-center justify-center h-7 py-4 border border-[#CED4DA] w-fit px-3 gap-2">

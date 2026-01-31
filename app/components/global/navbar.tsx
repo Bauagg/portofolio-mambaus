@@ -19,9 +19,12 @@ export default function Navbar() {
                 <div className="max-w-7xl mx-auto px-6 py-4">
                     <div className="flex items-center justify-between">
                         {/* Logo */}
-                        <div className="text-xl font-semibold text-black dark:text-white">
+                        <a
+                            href="#home"
+                            className="text-xl font-semibold text-black dark:text-white hover:opacity-80 transition-opacity cursor-pointer"
+                        >
                             Mambaus
-                        </div>
+                        </a>
 
                         {/* Navigation Links - Desktop */}
                         <div className="hidden md:flex items-center gap-8">
@@ -97,9 +100,13 @@ export default function Navbar() {
                     <div className="flex flex-col h-full">
                         {/* Header with Logo and Close Button */}
                         <div className="flex items-center justify-between px-6 py-4 border-b border-gray-200 dark:border-gray-800">
-                            <div className="text-xl font-semibold text-black dark:text-white">
+                            <a
+                                href="#home"
+                                onClick={toggleMenu}
+                                className="text-xl font-semibold text-black dark:text-white hover:opacity-80 transition-opacity cursor-pointer"
+                            >
                                 Mambaus
-                            </div>
+                            </a>
                             <button
                                 onClick={toggleMenu}
                                 className="md:hidden p-2 text-black dark:text-white border-2 border-black dark:border-white rounded"

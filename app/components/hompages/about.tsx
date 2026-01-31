@@ -27,7 +27,7 @@ export default function About() {
     ]
 
     return (
-        <section className="bg-white dark:bg-black pt-12 md:pt-10">
+        <section id="about" className="bg-white dark:bg-black pt-12 md:pt-10">
             <div className="max-w-7xl mx-auto px-6 py-12 md:py-20">
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-start">
                     {/* Left Column - Text Content */}

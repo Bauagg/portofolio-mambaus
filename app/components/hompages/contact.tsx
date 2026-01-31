@@ -55,7 +55,7 @@ export default function Contact() {
     };
 
     return (
-        <section className="bg-white dark:bg-black pt-12 md:pt-10">
+        <section id="contact" className="bg-white dark:bg-black pt-12 md:pt-10">
             {/* Toast Notification */}
             {toast.show && (
                 <div className="fixed top-6 right-6 z-50 animate-slide-in">
