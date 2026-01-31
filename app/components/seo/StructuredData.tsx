@@ -4,7 +4,7 @@ export default function StructuredData() {
         "@type": "Person",
         name: "A. Mambaus Sholihin",
         alternateName: "Mambaus",
-        url: "https://mambaus.com",
+        url: "https://portofolio-mambaus.vercel.app/",
         image: "https://mambaus.com/profile.jpg",
         jobTitle: "Freelance Full Stack Developer & Business Consultant",
         worksFor: {

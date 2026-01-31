@@ -93,7 +93,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en_US",
     alternateLocale: "id_ID",
-    url: "https://mambaus.com",
+    url: "https://portofolio-mambaus.vercel.app/",
     title: "Mambaus - Freelance Developer untuk UMKM & Business | Jasa Website Profesional",
     description: "Freelance Full Stack Developer untuk UMKM, Startup, dan Business. Jasa pembuatan website, aplikasi bisnis, dan konsultasi digital. Solusi IT terjangkau untuk UMKM & Bisnis Online.",
     siteName: "Mambaus - Freelance Developer & Business Consultant",
