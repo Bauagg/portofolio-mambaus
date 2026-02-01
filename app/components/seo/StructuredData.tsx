@@ -5,7 +5,6 @@ export default function StructuredData() {
         name: "A. Mambaus Sholihin",
         alternateName: "Mambaus",
         url: "https://portofolio-mambaus.vercel.app/",
-        image: "https://mambaus.com/profile.jpg",
         jobTitle: "Freelance Full Stack Developer & Business Consultant",
         worksFor: {
             "@type": "Organization",
