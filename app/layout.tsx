@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Mambaus - Freelance Full Stack Developer | UMKM & Business Solutions | Jasa Website Profesional",
-  description: "Freelance Full Stack Developer untuk UMKM, Startup, dan Business. Jasa pembuatan website, aplikasi bisnis, dan konsultasi digital. Solusi IT untuk UMKM & Bisnis Online. Available for freelance projects & business partnerships.",
+  title: "Mambaus - Business Consultant & Strategi Bisnis Digital | Solusi UMKM & Enterprise",
+  description: "Konsultan Bisnis & Strategi Digital untuk pertumbuhan UMKM, Startup, dan Enterprise. Spesialis transformasi digital, pengembangan bisnis online, pembuatan website profesional, dan solusi teknologi untuk bisnis Anda.",
   keywords: [
     // Freelance & Services
     "Full Stack Developer",
@@ -94,14 +94,14 @@ export const metadata: Metadata = {
     locale: "en_US",
     alternateLocale: "id_ID",
     url: "https://portofolio-mambaus.vercel.app/",
-    title: "Mambaus - Freelance Developer untuk UMKM & Business | Jasa Website Profesional",
-    description: "Freelance Full Stack Developer untuk UMKM, Startup, dan Business. Jasa pembuatan website, aplikasi bisnis, dan konsultasi digital. Solusi IT terjangkau untuk UMKM & Bisnis Online.",
-    siteName: "Mambaus - Freelance Developer & Business Consultant",
+    title: "Mambaus - Business Consultant & Strategi Bisnis Digital | Solusi UMKM & Enterprise",
+    description: "Konsultan bisnis & strategi digital untuk pertumbuhan UMKM, Startup, dan Enterprise. Solusi transformasi digital, pengembangan bisnis online, dan pembuatan website profesional.",
+    siteName: "Mambaus - Business Consultant & Digital Solutions",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Mambaus - Freelance Developer UMKM & Business",
-    description: "Jasa website & aplikasi untuk UMKM, Startup, dan Business. Freelance developer berpengalaman, solusi digital terjangkau.",
+    title: "Mambaus - Business Consultant & Solusi Digital UMKM | Strategi Bisnis",
+    description: "Konsultan bisnis & strategi digital untuk UMKM, Startup, dan Enterprise. Solusi pertumbuhan bisnis, pembuatan website, dan transformasi digital.",
     creator: "@mambaus",
   },
   robots: {
